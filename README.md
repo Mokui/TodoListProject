@@ -15,6 +15,8 @@ npm start
 
 ## Front side
 
+Go in todolist folder, then:
+
 ```
 ng serve --open
 ```
